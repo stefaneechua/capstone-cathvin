@@ -1,0 +1,14 @@
+$primary: serif;
+$color: blue;
+
+.border-blk {
+    border: 2px solid #000;
+}
+
+.hello {
+    h1{
+        color: $color;
+        font-family: serif;
+    }
+
+}
